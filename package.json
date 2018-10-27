@@ -1,7 +1,7 @@
 {
   "name": "ml-web-camera-image-classification",
   "version": "1.0.0",
-  "description": "Tensorflow + MobileNet model - image classification (web cam)",
+  "description": "Tensorflow image classifier using MobileNet model (built-in webcam)",
   "author": "Vladislav Lewin",
   "private": true,
   "scripts": {
