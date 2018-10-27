@@ -1,6 +1,6 @@
 # ml-camera-image-recognition
 
-> Tensorflow + MobileNet model - image classification (web cam)
+> Tensorflow image classifier using MobileNet model (built-in webcam)
 
 ## Build Setup
 
